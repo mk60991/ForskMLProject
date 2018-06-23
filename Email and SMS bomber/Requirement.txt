@@ -1,0 +1,2 @@
+send multiple email at a time
+send  multiple SMS at a time
